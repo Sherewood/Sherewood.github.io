@@ -13,7 +13,7 @@
     <nav>
       <ul>
         <li><a href="https://sherewood.github.io/about.html">About</a></li>
-        <li><a href="#projects">Projects</a></li>
+        <li><a href="https://sherewood.github.io/">Home</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
     </nav>
@@ -54,7 +54,7 @@
       </ul>
 	  	  	  <h2>Sql projects  </h2>
 	        <ul>
-        <li><a href="https://github.com/Sherewood/haskell">Haskell demo server: a project made from Sql. represents a database search for Items from the game Diablo 2. Complete with server and explanation of server.</a></li>
+        <li><a href="https://github.com/Sherewood/Diablo2_loot">SQL demo server: a project made from Sql. represents a database search for Items from the game Diablo 2. Complete with server and explanation of server.</a></li>
         <!-- Add more project links as needed -->
       </ul>
     </section>
