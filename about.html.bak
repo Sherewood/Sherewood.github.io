@@ -26,27 +26,6 @@
     </section>
 
 
-    <section id="projects">
-      <h2>C++ Projects</h2>
-      <ul>
-        <li><a href="https://github.com/Sherewood/Project1">Project 1</a></li>
-        <li><a href="https://github.com/Sherewood/Project2">Project 2</a></li>
-        <!-- Add more project links as needed -->
-      </ul>
-	  <h2> Game Projects </h2>
-	        <ul>
-        <li><a href="https://github.com/Sherewood/Project1">Project 1</a></li>
-        <li><a href="https://github.com/Sherewood/Project2">Project 2</a></li>
-        <!-- Add more project links as needed -->
-      </ul>
-	  	  <h2>javascript projects </h2>
-	        <ul>
-        <li><a href="https://github.com/Sherewood/Project1">Project 1</a></li>
-        <li><a href="https://github.com/Sherewood/Project2">Project 2</a></li>
-        <!-- Add more project links as needed -->
-      </ul>
-    </section>
-
     <section id="contact">
       <h2>Contact Me</h2>
       <p>Email: jyrougerie@gmail.com</p>
