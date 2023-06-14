@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Computer Science Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>About Me</h2>
+      <p>Insert your introduction and information about your background and skills here.</p>
+    </section>
+
+
+    <section id="projects">
+      <h2>C++ Projects</h2>
+      <ul>
+        <li><a href="https://github.com/Sherewood/Project1">Project 1</a></li>
+        <li><a href="https://github.com/Sherewood/Project2">Project 2</a></li>
+        <!-- Add more project links as needed -->
+      </ul>
+	  <h2> Game Projects </h2>
+	        <ul>
+        <li><a href="https://github.com/Sherewood/Project1">Project 1</a></li>
+        <li><a href="https://github.com/Sherewood/Project2">Project 2</a></li>
+        <!-- Add more project links as needed -->
+      </ul>
+	  	  <h2>javascript projects </h2>
+	        <ul>
+        <li><a href="https://github.com/Sherewood/Project1">Project 1</a></li>
+        <li><a href="https://github.com/Sherewood/Project2">Project 2</a></li>
+        <!-- Add more project links as needed -->
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Contact Me</h2>
+      <p>Email: jyrougerie@gmail.com</p>
+      <p>Phone: 819-588-1533</p>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
