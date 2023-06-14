@@ -30,19 +30,20 @@
       <p>
 		Julien Y.Rougerie <br>
 		Bachelor Of Computer Science
-		Resume
+		<br>
 		Hello! I am graduate of Computer Science from
 		Carleton university with a minor in History. I'm
 		proficient in Unity, c sharp, openGl,
-		c++,java,javascript and other languages. I'm a go
+		c++,java,javascript and other languages.<br> I'm a go
 		getter who likes to challenge himself and loves
 		seeing programmed projects come into frutition.
 		I'm eager to work and learns more about the world
-		of computer science
-		Github link:
-		https://github.com/Sherewood
-		Linkedin:
-		www.linkedin.com/in/julien-rougerie-387959172
+		of computer science.
+		<br>
+		
+		<li><a href="https://github.com/Sherewood">Github link</a></li> 
+		<br>
+		<li><a href="www.linkedin.com/in/julien-rougerie-387959172">Linkedin</a></li>
 		</p>
     </section>
 

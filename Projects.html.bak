@@ -59,11 +59,7 @@
       </ul>
     </section>
 
-    <section id="contact">
-      <h2>Contact Me</h2>
-      <p>Email: jyrougerie@gmail.com</p>
-      <p>Phone: 819-588-1533</p>
-    </section>
+
   </main>
 
   <script src="script.js"></script>
