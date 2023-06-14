@@ -12,16 +12,16 @@
   <header>
     <nav>
       <ul>
-        <li><a href="https://sherewood.github.io/about">About</a></li>
-        <li><a href="#projects">Projects</a></li>
-        <li><a href="#contact">Contact</a></li>
+        <li><a href="https://sherewood.github.io/about.html">About</a></li>
+        <li><a href="https://sherewood.github.io/Projects.html">Projects</a></li>
+        
       </ul>
     </nav>
   </header>
 
   <main>
     <section id="about">
-      <h2>About Me</h2>
+      <h2>Welcome!</h2>
       <p>Insert your introduction and information about your background and skills here.</p>
     </section>
 

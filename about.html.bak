@@ -12,9 +12,9 @@
   <header>
     <nav>
       <ul>
-        <li><a href="https://sherewood.github.io/#about">About</a></li>
-        <li><a href="#projects">Projects</a></li>
-        <li><a href="#contact">Contact</a></li>
+        <li><a href="https://sherewood.github.io/">Home</a></li>
+        <li><a href="https://sherewood.github.io/Projects.html">Projects</a></li>
+        <
       </ul>
     </nav>
   </header>

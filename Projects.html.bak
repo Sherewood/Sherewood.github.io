@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Computer Science Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="https://sherewood.github.io/about.html">About</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="intro">
+      <h2>Projects</h2>
+      <p> </p>
+    </section>
+
+
+    <section id="projects">
+      <h2>C++ Projects</h2>
+      <ul>
+        <li><a href="https://github.com/Sherewood/Taxi_server_c">Taxi server demo: simple server to control a series of taxis</a></li>
+        <li><a href="https://github.com/Sherewood/Building_plan_c">Building plan:  A simple c++ program which builds floor plans based off of hardcoded data.</a></li>
+        <!-- Add more project links as needed -->
+      </ul>
+	  <h2> Game Projects </h2>
+	        <ul>
+        <li><a href="https://github.com/Sherewood/4501Project-">Daybreak: done in collaberation, this base game is an rts strategy game. Made in Unity, the game is a full level with ai, pathing, and full user interface. </a></li>
+        <li><a href="https://github.com/Sherewood/Havana">Havana:  A unity board game. Play against another player on a 9*9 board based on the game rules of Havana. The readme contains an instruciton manual.</a></li>
+		<li><a href="https://github.com/Sherewood/cloak-and-dagger">Cloak and Dagger: a simple text-based adventure playable in python. Take control of an assasin and complete the task to slay the king. the game comes with a walkthrough.</a></li>
+        <!-- Add more project links as needed -->
+      </ul>
+	  	  <h2>javascript projects </h2>
+	        <ul>
+        <li><a href="https://github.com/Sherewood/crowmart-main">CrowMart: a small demo website the has express and post capabilities.</a></li>
+        <li><a href="https://github.com/Sherewood/Resturant_Server">Resturant_Server: A demo resutarant website that has pug, mongo and server capbabilities</a></li>
+        <!-- Add more project links as needed -->
+      </ul>
+	        
+	  	  <h2>Haskell  </h2>
+	        <ul>
+        <li><a href="https://github.com/Sherewood/haskell">Haskell programs.</a></li>
+        <!-- Add more project links as needed -->
+      </ul>
+	  	  	  <h2>Sql projects  </h2>
+	        <ul>
+        <li><a href="https://github.com/Sherewood/haskell">Haskell demo server: a project made from Sql. represents a database search for Items from the game Diablo 2. Complete with server and explanation of server.</a></li>
+        <!-- Add more project links as needed -->
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Contact Me</h2>
+      <p>Email: jyrougerie@gmail.com</p>
+      <p>Phone: 819-588-1533</p>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
