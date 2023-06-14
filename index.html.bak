@@ -27,30 +27,18 @@
 
 
     <section id="projects">
-      <h2>C++ Projects</h2>
+      <h2>Projects</h2>
       <ul>
-        <li><a href="https://github.com/Sherewood/Project1">Project 1</a></li>
-        <li><a href="https://github.com/Sherewood/Project2">Project 2</a></li>
-        <!-- Add more project links as needed -->
-      </ul>
-	  <h2> Game Projects </h2>
-	        <ul>
-        <li><a href="https://github.com/Sherewood/Project1">Project 1</a></li>
-        <li><a href="https://github.com/Sherewood/Project2">Project 2</a></li>
-        <!-- Add more project links as needed -->
-      </ul>
-	  	  <h2>javascript projects </h2>
-	        <ul>
-        <li><a href="https://github.com/Sherewood/Project1">Project 1</a></li>
-        <li><a href="https://github.com/Sherewood/Project2">Project 2</a></li>
+        <li><a href="https://github.com/YourGitHubUsername/Project1">Project 1</a></li>
+        <li><a href="https://github.com/YourGitHubUsername/Project2">Project 2</a></li>
         <!-- Add more project links as needed -->
       </ul>
     </section>
 
     <section id="contact">
       <h2>Contact Me</h2>
-      <p>Email: jyrougerie@gmail.com</p>
-      <p>Phone: 819-588-1533</p>
+      <p>Email: yourname@example.com</p>
+      <p>Phone: (123) 456-7890</p>
     </section>
   </main>
 
